@@ -1,0 +1,9 @@
+{
+  "name": "Text Resizer",
+  "id": "1385288001318636806",
+  "api": "1.0.0",
+  "main": "code.js",
+  "ui": "ui/ui.html",
+  "editorType": ["figma"],
+  "documentAccess": "current"
+}
